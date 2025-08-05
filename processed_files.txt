@@ -1,8 +1,0 @@
-C:\Users\kimo8\Downloads\로보팜테스트 처방전\CopyData-20250611_00001_반말례.txt
-C:\Users\kimo8\Downloads\로보팜테스트 처방전\CopyData-20250611_00002_김순덕.txt
-C:\Users\kimo8\Downloads\로보팜테스트 처방전\CopyData-20250611_00003_권종근.txt
-C:\Users\kimo8\Downloads\로보팜테스트 처방전\CopyData-20250611_00004_김보경.txt
-C:\Users\kimo8\Downloads\로보팜테스트 처방전\CopyData-20250611_00005_김정수.txt
-C:\Users\kimo8\Downloads\로보팜테스트 처방전\CopyData-20250611_00006_전성철.txt
-C:\Users\kimo8\Downloads\로보팜테스트 처방전\CopyData-20250611_00007_김순애.txt
-C:\Users\kimo8\Downloads\로보팜테스트 처방전\CopyData-20250611_00008_김영각.txt
