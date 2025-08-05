@@ -1,0 +1,93 @@
+[2025-06-26 01:54:37] STATUS: SENDING | PATIENT: 반말례 | MEDICINE: 디옥시드에이취알정600밀리그램(티옥트산) | MESSAGE: 
+[2025-06-26 01:54:37] STATUS: SUCCESS | PATIENT: 반말례 | MEDICINE: 디옥시드에이취알정600밀리그램(티옥트산) | MESSAGE:  
+{"rsMsg":"pres_item_history INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:37] STATUS: SENDING | PATIENT: 반말례 | MEDICINE: 오마프정(리마프로스트알파덱스) | MESSAGE: 
+[2025-06-26 01:54:37] STATUS: SUCCESS | PATIENT: 반말례 | MEDICINE: 오마프정(리마프로스트알파덱스) | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:37] STATUS: SENDING | PATIENT: 반말례 | MEDICINE: 동광프레가발린캡슐50밀리그램 | MESSAGE: 
+[2025-06-26 01:54:37] STATUS: SUCCESS | PATIENT: 반말례 | MEDICINE: 동광프레가발린캡슐50밀리그램 | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:37] STATUS: SENDING | PATIENT: 반말례 | MEDICINE: 동광니자티딘캅셀150mg | MESSAGE: 
+[2025-06-26 01:54:37] STATUS: SUCCESS | PATIENT: 반말례 | MEDICINE: 동광니자티딘캅셀150mg | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:37] STATUS: SENDING | PATIENT: 반말례 | MEDICINE: 아트놀셋세미정 | MESSAGE: 
+[2025-06-26 01:54:37] STATUS: SUCCESS | PATIENT: 반말례 | MEDICINE: 아트놀셋세미정 | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:37] STATUS: SENDING | PATIENT: 반말례 | MEDICINE: 쎄레민캡슐100밀리그램(세레콕시브) | MESSAGE: 
+[2025-06-26 01:54:37] STATUS: SUCCESS | PATIENT: 반말례 | MEDICINE: 쎄레민캡슐100밀리그램(세레콕시브) | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:38] STATUS: SENDING | PATIENT: 김순덕 | MEDICINE: 아트놀셋세미정 | MESSAGE: 
+[2025-06-26 01:54:38] STATUS: SUCCESS | PATIENT: 김순덕 | MEDICINE: 아트놀셋세미정 | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:38] STATUS: SENDING | PATIENT: 김순덕 | MEDICINE: 아클펜정 | MESSAGE: 
+[2025-06-26 01:54:38] STATUS: SUCCESS | PATIENT: 김순덕 | MEDICINE: 아클펜정 | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:38] STATUS: SENDING | PATIENT: 김순덕 | MEDICINE: 동광니자티딘캅셀150mg | MESSAGE: 
+[2025-06-26 01:54:38] STATUS: SUCCESS | PATIENT: 김순덕 | MEDICINE: 동광니자티딘캅셀150mg | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:38] STATUS: SENDING | PATIENT: 김순덕 | MEDICINE: 에페날서방정(에페리손염산염) | MESSAGE: 
+[2025-06-26 01:54:39] STATUS: SUCCESS | PATIENT: 김순덕 | MEDICINE: 에페날서방정(에페리손염산염) | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:39] STATUS: SENDING | PATIENT: 김순덕 | MEDICINE: 동광프레가발린캡슐50밀리그램 | MESSAGE: 
+[2025-06-26 01:54:39] STATUS: SUCCESS | PATIENT: 김순덕 | MEDICINE: 동광프레가발린캡슐50밀리그램 | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:40] STATUS: SENDING | PATIENT: 권종근 | MEDICINE: 피나온정 1mg | MESSAGE: 
+[2025-06-26 01:54:40] STATUS: SUCCESS | PATIENT: 권종근 | MEDICINE: 피나온정 1mg | MESSAGE:  
+{"rsMsg":"pres_item_history INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:41] STATUS: SENDING | PATIENT: 김보경 | MEDICINE: 케이캡정50밀리그램(테고프라잔) | MESSAGE: 
+[2025-06-26 01:54:41] STATUS: SUCCESS | PATIENT: 김보경 | MEDICINE: 케이캡정50밀리그램(테고프라잔) | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:41] STATUS: SENDING | PATIENT: 김보경 | MEDICINE: 레보플러스정750밀리그램 | MESSAGE: 
+[2025-06-26 01:54:41] STATUS: SUCCESS | PATIENT: 김보경 | MEDICINE: 레보플러스정750밀리그램 | MESSAGE:  
+{"rsMsg":"pres_item_history INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:42] STATUS: SENDING | PATIENT: 김정수 | MEDICINE: 라베졸정10mg | MESSAGE: 
+[2025-06-26 01:54:42] STATUS: SUCCESS | PATIENT: 김정수 | MEDICINE: 라베졸정10mg | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:42] STATUS: SENDING | PATIENT: 김정수 | MEDICINE: 아트놀셋세미정 | MESSAGE: 
+[2025-06-26 01:54:42] STATUS: SUCCESS | PATIENT: 김정수 | MEDICINE: 아트놀셋세미정 | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:42] STATUS: SENDING | PATIENT: 김정수 | MEDICINE: 아클펜정 | MESSAGE: 
+[2025-06-26 01:54:42] STATUS: SUCCESS | PATIENT: 김정수 | MEDICINE: 아클펜정 | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:42] STATUS: SENDING | PATIENT: 김정수 | MEDICINE: 에페날서방정(에페리손염산염) | MESSAGE: 
+[2025-06-26 01:54:42] STATUS: SUCCESS | PATIENT: 김정수 | MEDICINE: 에페날서방정(에페리손염산염) | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:43] STATUS: SENDING | PATIENT: 전성철 | MEDICINE: 한올트리메부틴말레산염정 | MESSAGE: 
+[2025-06-26 01:54:43] STATUS: SUCCESS | PATIENT: 전성철 | MEDICINE: 한올트리메부틴말레산염정 | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:43] STATUS: SENDING | PATIENT: 전성철 | MEDICINE: 티피엠정 | MESSAGE: 
+[2025-06-26 01:54:43] STATUS: SUCCESS | PATIENT: 전성철 | MEDICINE: 티피엠정 | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:43] STATUS: SENDING | PATIENT: 전성철 | MEDICINE: 람노스캡슐 | MESSAGE: 
+[2025-06-26 01:54:43] STATUS: SUCCESS | PATIENT: 전성철 | MEDICINE: 람노스캡슐 | MESSAGE:  
+{"rsMsg":"pres_item_history INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:43] STATUS: SENDING | PATIENT: 전성철 | MEDICINE: 사이톱신정(시프로플록사신염산염) | MESSAGE: 
+[2025-06-26 01:54:43] STATUS: SUCCESS | PATIENT: 전성철 | MEDICINE: 사이톱신정(시프로플록사신염산염) | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:43] STATUS: SENDING | PATIENT: 전성철 | MEDICINE: 로프민캡슐 | MESSAGE: 
+[2025-06-26 01:54:44] STATUS: SUCCESS | PATIENT: 전성철 | MEDICINE: 로프민캡슐 | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:45] STATUS: SENDING | PATIENT: 김순애 | MEDICINE: 이텍스암브록솔정 | MESSAGE: 
+[2025-06-26 01:54:45] STATUS: SUCCESS | PATIENT: 김순애 | MEDICINE: 이텍스암브록솔정 | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:45] STATUS: SENDING | PATIENT: 김순애 | MEDICINE: 케이캡정50밀리그램(테고프라잔) | MESSAGE: 
+[2025-06-26 01:54:45] STATUS: SUCCESS | PATIENT: 김순애 | MEDICINE: 케이캡정50밀리그램(테고프라잔) | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:45] STATUS: SENDING | PATIENT: 김순애 | MEDICINE: 바난정(세프포독심프록세틸) | MESSAGE: 
+[2025-06-26 01:54:45] STATUS: SUCCESS | PATIENT: 김순애 | MEDICINE: 바난정(세프포독심프록세틸) | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:45] STATUS: SENDING | PATIENT: 김순애 | MEDICINE: 비오플캅셀 | MESSAGE: 
+[2025-06-26 01:54:45] STATUS: SUCCESS | PATIENT: 김순애 | MEDICINE: 비오플캅셀 | MESSAGE:  
+{"rsMsg":"pres_item_history INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:46] STATUS: SENDING | PATIENT: 김영각 | MEDICINE: 소론도정(프레드니솔론) | MESSAGE: 
+[2025-06-26 01:54:46] STATUS: SUCCESS | PATIENT: 김영각 | MEDICINE: 소론도정(프레드니솔론) | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:46] STATUS: SENDING | PATIENT: 김영각 | MEDICINE: 동광니자티딘캅셀150mg | MESSAGE: 
+[2025-06-26 01:54:46] STATUS: SUCCESS | PATIENT: 김영각 | MEDICINE: 동광니자티딘캅셀150mg | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:46] STATUS: SENDING | PATIENT: 김영각 | MEDICINE: 아트놀셋세미정 | MESSAGE: 
+[2025-06-26 01:54:46] STATUS: SUCCESS | PATIENT: 김영각 | MEDICINE: 아트놀셋세미정 | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
+[2025-06-26 01:54:46] STATUS: SENDING | PATIENT: 김영각 | MEDICINE: 콜킨정 | MESSAGE: 
+[2025-06-26 01:54:46] STATUS: SUCCESS | PATIENT: 김영각 | MEDICINE: 콜킨정 | MESSAGE:  
+{"rsMsg":"pres_stock INSERT \uc131\uacf5","rsCode":"00"}
